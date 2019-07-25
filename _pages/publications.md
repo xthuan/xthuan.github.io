@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 toc: true
 ---
-His citation profile in [Google Scholar](https://scholar.google.com/citations?user=MIPbyQ0AAAAJ&hl=en).
+His citation profile in [Google Scholar](https://scholar.google.co.uk/citations?user=3Fmo-eUAAAAJ&hl=en&oi=ao).
 
-Our publication in the area of key generation is summarized at [here](https://junqing-zhang.github.io/posts/2019/04/blog-post-keygen_liv_pub/)
-
-Please [email me](mailto:junqing.zhang@liverpool.ac.uk) if you require a copy of the paper.
+Please [email me](mailto:xintao.huan@liverpool.ac.uk) if you require a copy of the paper.
 
 {% include toc %}
 

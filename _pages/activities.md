@@ -3,11 +3,6 @@ layout: archive
 title: "Activities"
 permalink: /activities/
 author_profile: true
-------
-layout: archive
-title: "Professional Activities"
-permalink: /professional-activities/
-author_profile: true
 toc: true
 toc_max_header: 1
 ---
