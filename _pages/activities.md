@@ -8,6 +8,7 @@ toc_max_header: 1
 ---
 {% include toc h_min = 1%}
 
+<!--
 # Public Engagement
 ## STEM for BRITAIN 2017
 * **Junqing Zhang**, Roger Woods, and Trung Q. Duong, "Tackling Cyber Security of Internet of Things by Leveraging Low Cost Physical Layer Security", Poster Presentation, House of Commons, London, U.K., 13th March, 2017 [Poster, PDF]({{ site.url }}/files/pdf/STEMforBRITAIN2017_Poster_JZHANG.pdf)
@@ -106,11 +107,4 @@ toc_max_header: 1
 * IEEE/CIC International Conference on Communications in China (ICCC) 2017
 * International Conference on Computing, Networking and Communications 2018
 * IEEE Workshop on Signal Processing Systems 2018
-* European Conference on Networks and Communications (EuCNC) 2019
-
-
-I am always looking for excellent PhD students and post-doc.
-
-I also welcome visiting researchers. Some potential funding opportunities are listed below.
-* China Scholarship Council
-* [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/) for PhD students and scholars in universities of Jiangsu Province, China.
+* European Conference on Networks and Communications (EuCNC) 2019-->

@@ -11,13 +11,13 @@ Please [email me](mailto:xintao.huan@liverpool.ac.uk) if you require a copy of t
 
 {% include toc %}
 
-%# Book Chapter
-
 # Journal Article
-%1. **Junqing Zhang**, Ming Ding, David Lopez-Perez, Alan Marshall, and Lajos Hanzo, “Design of an Efficient OFDMA-Based Multi-User Key Generation Protocol,” _IEEE Transactions on Vehicular Technology_, 2019. [link](https://ieeexplore.ieee.org/document/8765327)
-%1. Yuan Ding, Vincent Fusco, **Junqing Zhang**, and Wen-Qin Wang, “Time-modulated OFDM Directional Modulation Transmitters,” _IEEE Transactions on Vehicular Technology_, accepted, 2019. [link](https://ieeexplore.ieee.org/document/8744399)
-%1. **Junqing Zhang**, Ming Ding, Guyue Li, and Alan Marshall, “Key Generation Based on Large Scale Fading,” _IEEE Transactions on Vehicular Technology_, accepted, 2019. [link](https://ieeexplore.ieee.org/document/8735939)
+1. **Xintao Huan**, Kyeong Soo Kim, "Optimal Message Bundling with Delay and Synchronization Constraints in Wireless Sensor Networks", CoRR abs/1906.09039, 2019
+1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, Eng Gee Lim, Alan Marshall, "A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks", CoRR abs/1906.09037, 2019
+1. **Xintao Huan**, Kyeong Soo Kim, "On the Practical Implementation of Propagation Delay and Clock Skew Compensated High-Precision Time Synchronization Schemes with Resource-Constrained Sensor Nodes in Multi-Hop Wireless Sensor Networks", CoRR abs/1905.00554, 2019
+1. Songwei Fu, Chia-Yen Shih, Yuming Jiang, Matteo Ceriotti, **Xintao Huan**, Pedro José Marrón, "RADIUS: A System for Detecting Anomalous Link Quality Degradation in Wireless Sensor Networks", CoRR abs/1701.00963, 2017
 
 # Conference Paper
-%1. Wei Li, Mounir Ghogho, **Junqing Zhang**, Des McLernon, Jing Lei and Syed Ali Raza Zaidi, “Design of an Energy-Efficient Multidimensional Secure Constellation for 5G Communications,” in _Proc. IEEE ICC Workshop on Wireless Physical Layer Security_, Shanghai, China, May 2019.
-%1. Yun Wen, Makoto Yoshida, **Junqing Zhang**, Zheng Chu, Pei Xiao, and Rahim Tafazolli, “Machine Learning Based Attack Against Artificial Noise-aided Secure Communication,” in _Proc. IEEE ICC_, Shanghai, China, May 2019.
+1. **Xintao Huan** and Kyeong Soo Kim, "High-precision time synchronization for wireless sensor networks: Lessons from the experiments on a real testbed," presented at the International Conference on Smart Grid Technology and Data Processing (SGTDP) 2019, Xi'an Jiaotong-Liverpool University, Suzhou, China, March 2019.
+1. Zhenghang Zhong, Zhe Tang, Xiangxing Li, Tiancheng Yuan, Yang Yang, Wei Meng, Yuanyuan Zhang, Renzhi Sheng, Naomi Grant, Chongfeng Ling, **Xintao Huan**, Kyeong Soo Kim, and Sanghyuk Lee, "XJTLUIndoorLoc: A new fingerprinting database for indoor localization and trajectory estimation based on Wi-Fi RSS and geomagnetic field," accepted for presentation at GCA'18, Sep. 2018.
+1. Songwei Fu, Matteo Ceriotti, Yuming Jiang, Chia-Yen Shih, **Xintao Huan**, Pedro José Marrón, "An Approach to Detect Anomalous Degradation in Signal Strength of IEEE 802.15.4 Links," 2018 15th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), Hong Kong, June 2018. [Link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397126&isnumber=8397083)
