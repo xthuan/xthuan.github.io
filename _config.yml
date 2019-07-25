@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://dblp.org/pers/hd/h/Huan:Xintao"
   googlescholar    : "https://scholar.google.co.uk/citations?user=3Fmo-eUAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "xintao.huan@liverpool.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Xintao_Huan2"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xthuan"
+  github           : # "xthuan"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/user/xthuan/videos"
+  youtube          : # "https://www.youtube.com/user/xthuan/videos"
   wikipedia        :
 
 
