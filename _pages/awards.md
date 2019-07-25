@@ -5,8 +5,5 @@ permalink: /awards/
 author_profile: true
 ---
 
-I am always looking for excellent PhD students and post-doc.
-
-I also welcome visiting researchers. Some potential funding opportunities are listed below.
-* China Scholarship Council
-* [UK Jiangsu 20+20 programme](https://junqing-zhang.github.io/posts/2019/04/blog-post-uk-jiangsu-collaboration/) for PhD students and scholars in universities of Jiangsu Province, China.
+* Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen, University Duisburg-Essen, Germany
+* Xi'an Jiaotong-Liverpool University Research Development Fund (under Grant RDF-16-02-39), XJTLU, China
