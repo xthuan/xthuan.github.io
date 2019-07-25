@@ -19,18 +19,18 @@ News
 
 Contact
 ------
-Email: xintao.huan at liverpool.ac.uk
-Department of Electrical Engineering and Electronics
-University of Liverpool
-Brownlow Hill
-Liverpool L69 3GJ
-United Kingdom
+Email: xintao.huan at liverpool.ac.uk<br /> 
+<address>
+  Department of Electrical Engineering and Electronics<br />
+  University of Liverpool<br /> 
+  Brownlow Hill,Liverpool L69 3GJ<br />
+  United Kingdom
+</address>
 
-Email: xintao.huan at xjtlu.edu.cn
-Department of Electrical and Electronic Engineering
-Electrical and Electronic Engineering Building (EE)
-Xi'an Jiaotong-Liverpool University
-111 Ren'ai Road
-Suzhou 215123
-China
-
+Email: xintao.huan at xjtlu.edu.cn<br />
+<address>
+  Department of Electrical and Electronic Engineering<br />
+  Xi'an Jiaotong-Liverpool University<br /> 
+  111 Ren'ai Road, Suzhou 215123<br />
+  China
+</address>
