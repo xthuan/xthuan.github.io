@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xintao Huan"
   avatar           : "profile.png"
-  bio              : "A passionate Wireless Sensor Network (WSN) and Internet of Things (IoT) researcher at University of Liverpool and XJTLU"
-  location         : "Liverpool,UK  Suzhou,China"
+  bio              : "A passionate WSN and IoT researcher at University of Liverpool and XJTLU"
+  location         : "Liverpool,UK & Suzhou,China"
   employer         :
   pubmed           : "https://dblp.org/pers/hd/h/Huan:Xintao"
   googlescholar    : "https://scholar.google.co.uk/citations?user=3Fmo-eUAAAAJ&hl=en&oi=ao"
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/user/xthuan/videos"
   wikipedia        :
 
 
