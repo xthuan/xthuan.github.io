@@ -12,7 +12,8 @@ Please [email me](mailto:xintao.huan@liverpool.ac.uk) if you require a copy of t
 {% include toc %}
 
 # Journal Article
-1. **Xintao Huan**, Kyeong Soo Kim, "Optimal Message Bundling with Delay and Synchronization Constraints in Wireless Sensor Networks", CoRR abs/1906.09039, 2019
+
+1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, and Moon Keun Kim, "Optimal message bundling with delay and synchronization constraints in wireless sensor networks," sensors, vol. 19, no. 18:4027, Sep. 18, 2019. [SCI] ([Link](https://www.mdpi.com/1424-8220/19/18/4027))
 1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, Eng Gee Lim, Alan Marshall, "A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks", CoRR abs/1906.09037, 2019
 1. **Xintao Huan**, Kyeong Soo Kim, "On the Practical Implementation of Propagation Delay and Clock Skew Compensated High-Precision Time Synchronization Schemes with Resource-Constrained Sensor Nodes in Multi-Hop Wireless Sensor Networks", CoRR abs/1905.00554, 2019
 1. Songwei Fu, Chia-Yen Shih, Yuming Jiang, Matteo Ceriotti, **Xintao Huan**, Pedro José Marrón, "RADIUS: A System for Detecting Anomalous Link Quality Degradation in Wireless Sensor Networks", CoRR abs/1701.00963, 2017
