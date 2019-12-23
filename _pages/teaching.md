@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Activities"
-permalink: /activities/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 toc: true
 toc_max_header: 1

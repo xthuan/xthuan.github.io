@@ -5,14 +5,23 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- ## Research Interests
-I have developed a strong research potential in innovative physical layer security solutions for future wireless technologies with ultra-low energy requirements but high security standards. My research aims to bridge the gap between the theoretical modelling and practical exploitation of physical layer security using state-of-the-art testbeds and equipment.
+## Research Interests
 
-In particular, my research aims to ensure the secure connection using key generation and device authentication using radio frequency fingerprint identification.
-## Key Generation from Wireless Channels
-* Key generation is an emerging technique to establish cryptographic keys between legitimate users by extracting randomness from their common channels.
-* [Key Generation Overview]({{ site.url }}/posts/2019/04/blog-post-keygen_main/)
+Our research focus is centered around innovative energy-efficient solutions for future wireless technologies with ultra-low energy requirements. We aim to reduce the energy consumption of future wireless technologies thereby prolong the deployment life of the current and future IoT systems. Note that, the solutions we provided so far and in the future are and will be practical solutions which evaluated on state-of-the-art testbeds and equipment.
 
-## Radio Frequency Fingerprint (RFF) Identification
-* All the components of wireless devices will have slightly different features, e.g., carrier frequency of the oscillators, from the manufacturing processing. Similar to biometric fingerprint, these characteristics are unique and permanent, which can act as the fingerprint of the devices. This technique first requires collecting the device fingerprint and storing them in a database, and then classifies devices by comparing with the stored database whenever a device wishes to join the network.
-* [RFF Identification Overview]({{ site.url }}/posts/2019/04/blog-post-rffi_main/) -->
+In particular, we have developed the energy-efficient time synchronization solution and link quality maintenance solution for WSN:
+
+## Energy-efficient Time Synchronization
+* A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks
+* On the practical implementation of propagation delay and clock skew compensated high-precision time synchronization schemes with resource-constrained sensor nodes in multi-hop wireless sensor networks
+* Optimal message bundling with delay and synchronization constraints in wireless sensor networks
+
+## Link Quality Maintenance
+* An Approach to Detect Anomalous Degradation in Signal Strength of IEEE 802.15.4 Links
+
+
+Through the ongoing neural network assisted indoor localization project (see project page), we are currently working on the potential AI indoor localization solutions.
+
+## Indoor Localization
+
+* XJTLUIndoorLoc: A new fingerprinting database for indoor localization and trajectory estimation based on Wi-Fi RSS and geomagnetic field
