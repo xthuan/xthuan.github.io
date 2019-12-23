@@ -7,9 +7,8 @@ author_profile: true
 
 ## Research Interests
 
-Our research focus is centered around innovative energy-efficient solutions for future wireless technologies with ultra-low energy requirements. We aim to reduce the energy consumption of future wireless technologies thereby prolong the deployment life of the current and future IoT systems. Note that, the solutions we provided so far and in the future are and will be practical solutions which evaluated on state-of-the-art testbeds and equipment.
+Our research focus is centered around innovative energy-efficient solutions for future wireless technologies with ultra-low energy requirements. We aim to reduce the energy consumption of future wireless technologies thereby prolong the deployment life of the current and future IoT systems. Note that, the solutions we provided so far and in the future are and will be practical solutions which evaluated on state-of-the-art testbeds and equipment. In particular, we have been working on the following areas:
 
-In particular, we have developed the energy-efficient time synchronization solution and link quality maintenance solution for WSN:
 ## Energy-efficient Time Synchronization
 * A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks
 * On the practical implementation of propagation delay and clock skew compensated high-precision time synchronization schemes with resource-constrained sensor nodes in multi-hop wireless sensor networks
