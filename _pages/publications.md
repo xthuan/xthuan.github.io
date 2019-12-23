@@ -13,6 +13,7 @@ Please [email me](mailto:xintao.huan@liverpool.ac.uk) if you require a copy of t
 
 # Journal Article
 
+1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, Eng Gee Lim and Alan Marshall, "A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks", IEEE Transactions on Communications, 2020. doi: 10.1109/TCOMM.2019.2960344. [SCI] ([Link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935413&isnumber=5497975))
 1. **Xintao Huan**, Kyeong Soo Kim, "On the practical implementation of propagation delay and clock skew compensated high-precision time synchronization schemes with resource-constrained sensor nodes in multi-hop wireless sensor networks", Computer Networks, vol. 166, no.106959, Jan. 2020. [SCI] ([Link](https://doi.org/10.1016/j.comnet.2019.106959))
 1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, and Moon Keun Kim, "Optimal message bundling with delay and synchronization constraints in wireless sensor networks", sensors, vol. 19, no. 18:4027, Sep. 18, 2019. [SCI] ([Link](https://www.mdpi.com/1424-8220/19/18/4027))
 1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, Eng Gee Lim, Alan Marshall, "A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks", CoRR abs/1906.09037, 2019
