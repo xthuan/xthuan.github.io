@@ -6,7 +6,7 @@ author_profile: true
 toc: true
 ---
 {% include toc %}
- 
+
 ## Semester 1 (2019-2020)
 * **UG level** - EEE333(S1) Multimedia Information Retrieval and Technology
 	* Host the **Lab** of **Java** and **Matlab** programming.
@@ -32,3 +32,4 @@ toc: true
 
 ## Reviewer of
 * IEEE Sensors Journal
+* IEEE Sensors Letters
