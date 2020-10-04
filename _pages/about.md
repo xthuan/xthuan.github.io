@@ -16,10 +16,10 @@ Duisburg-Essen, Duisburg, Germany, in 2013 and 2017, both in computer engineerin
 
 News
 ======
-@CCN lecture of University of Birmingham recommended our BATS paper.
-<img src="images/recommand-BATS.png">
+@2020 Computer and Communication Networks (CCN) Module of University of Birmingham recommended our BATS paper.
+<img src="images/recommand-BATS.jpg">
 
-@SNTCE 2019
+@2019 SNTCE 
 
 
 Contact
