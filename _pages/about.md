@@ -16,7 +16,11 @@ Duisburg-Essen, Duisburg, Germany, in 2013 and 2017, both in computer engineerin
 
 News
 ======
+@CCN lecture of University of Birmingham recommended our BATS paper.
+<img src="images/recommand-BATS.png">
+
 @SNTCE 2019
+
 
 Contact
 ------
