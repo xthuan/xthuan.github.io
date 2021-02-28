@@ -41,6 +41,7 @@ toc: true
 	* Mark and deliver feedback for the student's report.
 
 ## Reviewer of
+* IEEE Transactions on Communications
 * IEEE Sensors Journal
 * IEEE Sensors Letters
 * IEEE ACCESS
