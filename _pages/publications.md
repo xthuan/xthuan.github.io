@@ -24,9 +24,3 @@ Please [email me](mailto:xintao.huan@liverpool.ac.uk) if you require a copy of t
 1. **Xintao Huan** and Kyeong Soo Kim, "High-precision time synchronization for wireless sensor networks: Lessons from the experiments on a real testbed," presented at the International Conference on Smart Grid Technology and Data Processing (SGTDP) 2019, Xi'an Jiaotong-Liverpool University, Suzhou, China, March 2019.
 1. Zhenghang Zhong, Zhe Tang, Xiangxing Li, Tiancheng Yuan, Yang Yang, Wei Meng, Yuanyuan Zhang, Renzhi Sheng, Naomi Grant, Chongfeng Ling, **Xintao Huan**, Kyeong Soo Kim, and Sanghyuk Lee, "XJTLUIndoorLoc: A new fingerprinting database for indoor localization and trajectory estimation based on Wi-Fi RSS and geomagnetic field," accepted for presentation at GCA'18, Sep. 2018.
 1. Songwei Fu, Matteo Ceriotti, Yuming Jiang, Chia-Yen Shih, **Xintao Huan**, Pedro José Marrón, "An Approach to Detect Anomalous Degradation in Signal Strength of IEEE 802.15.4 Links," 2018 15th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), Hong Kong, June 2018. [Link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397126&isnumber=8397083)
-
-# Reviewer for
-* IEEE Transactions on Communications
-* IEEE Sensors Journal
-* IEEE Sensors Letters
-* IEEE ACCESS
