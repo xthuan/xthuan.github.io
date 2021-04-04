@@ -22,11 +22,14 @@ He serves as a reviewer for journals including
 
 News
 ======
-@2020 Computer and Communication Networks (CCN) Module of University of Birmingham recommended our BATS paper.
-<img src="images/recommand-BATS.jpg">
-
-@2019 SNTCE 
-
+* 29/03/2021 Our paper, ''NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks’’ has been accepted by IEEE Transactions on Communications.
+* 12/06/2020 Our paprt, ''Per-Hop Delay Compensation in Time Synchronization for Multi-Hop Wireless Sensor Networks Based on Packet-Relaying Gateways’’ has been accepted by IEEE Communications Letters.
+* 2020 Computer and Communication Networks (CCN) Module of University of Birmingham recommended our BATS paper.
+<img src="images/recommand-BATS.jpg" width="40%">
+* 05/12/2019 Our paprt, ''A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks’’ has been accepted by IEEE Transactions on Communications.
+* 23/07/2019 @University of Sheffield Symposium on New Trends in Communication Engineering
+<img src="images/sntce1.jpg" width="40%">
+<img src="images/sntce2.jpg" width="40%">
 
 Contact
 ------
