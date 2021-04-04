@@ -27,9 +27,9 @@ News
 * 2020 Computer and Communication Networks (CCN) Module of University of Birmingham recommended our BATS paper.<br />
 <img src="images/recommand-BATS.jpg" width="60%">
 * 05/12/2019 Our paper, ''A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
-* 23/07/2019 @University of Sheffield Symposium on New Trends in Communication Engineering<br />
-<img src="images/sntce1.jpg" width="60%">
-<!-- <img src="images/sntce2.jpg" width="60%"> -->
+* 23/07/2019 @University of Sheffield, Symposium on New Trends in Communication Engineering<br />
+<img src="images/sntce1.png" width="60%">
+<img src="images/sntce2.png" width="60%">
 
 Contact
 ------
