@@ -7,11 +7,11 @@ toc: true
 ---
 {% include toc %}
 
-## Teaching Fellow @XJTLU for 
+## Teaching Fellow for 
 * **S2 2020-2021**
 	* UG Level     - CAN304 Computer Systems Security
 
-## Teaching Assistant @XJTLU for 
+## Teaching Assistant for 
 * **S1 2020-2021**
 	* UG level     - INT309 Multimedia Information Retrieval and Technology
 	* Master level - CAN405 Data Communication and Communication Networks
