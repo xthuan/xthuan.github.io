@@ -29,8 +29,8 @@ News
 * 05/12/2019 Our paper, ''A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
 * 23/07/2019 @University of Sheffield, Symposium on New Trends in Communication Engineering<br />
 <table><tr>
-<td><img src="images/sntce1.jpg" width="50%" border=0></td>
-<td><img src="images/sntce2.jpg" width="50%" border=0></td>
+<td><img src="images/sntce1.jpg" border=0></td>
+<td><img src="images/sntce2.jpg" border=0></td>
 </tr></table>
 
 Contact
