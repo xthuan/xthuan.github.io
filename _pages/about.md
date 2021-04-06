@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xintao Huan is a PhD student with the Department of Electrical Engineering and Electronics, the University of Liverpool, UK, and the Department of Electrical and Electronic Engineering, Xi’an Jiaotong-Liverpool University, China. His major reserach work centers around time synchronization & node identification for Wireless Sensor Network (WSN) and Internet of Things (IoT); he investigates as well link quality maintenance in WSN and neural network assisted indoor localization. He is also a part-time *Teaching Fellow* for bachelor module CAN304 Computer Systems Security.
+Xintao Huan is a PhD student with the Department of Electrical Engineering and Electronics, the University of Liverpool, UK, and the Department of Electrical and Electronic Engineering, Xi’an Jiaotong-Liverpool University, China. His major reserach work centers around time synchronization & node identification for Wireless Sensor Network (WSN) and Internet of Things (IoT); he investigates as well link quality maintenance in WSN and neural network assisted indoor localization. He is a part-time *Teaching Fellow* for bachelor module CAN304 Computer Systems Security.
 
 He received the B.Sc. degree and the M.Sc. degree from University of 
 Duisburg-Essen, Duisburg, Germany, in 2013 and 2017, both in computer engineering. He received the stipend of “Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen” for his study at University of Duisburg-Essen. He worked as research assistant at Prof.Marrón's [Networked Embedded Systems (NES)](https://www.nes.uni-due.de/) Group of University of Duisburg-Essen from 2012 to 2016. 
