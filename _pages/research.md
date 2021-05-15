@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research Interests
 
-In 2012, when I was with University Duisburg-Essen, Germany, I started to work on the research for wireless sensor networks (WSNs). From 2012-2017, my research centered around the link quality of WSNs. From 2018, the year I started to pursue my Ph.D. at Unversity of Liverpool & XJTLU, my research still concentrated on WSN; the focus, however, was shifted to time synchronization. Three years later, I foray into the security area; one starting point is the node identification against Spoofing attack. I list my major research below. Note that, the proposed solutions are practical solutions that are all evaluated on a real WSN testbed.
+In 2012, when I was with University Duisburg-Essen, Germany, I started to work on the research for wireless sensor networks (WSNs). From 2012-2017, my research centered around the link quality of WSNs. From 2018, the year I started to pursue my Ph.D. at Unversity of Liverpool & XJTLU, my research still concentrated on WSN; the focus, however, was shifted to time synchronization. Three years later, I foray into the security area basing on the time synchronization research; one starting point is the node identification against Spoofing attack. I list my major research below. Note that, the proposed solutions are practical solutions that are all evaluated on a real WSN testbed.
 
 ## Energy-efficient Time Synchronization
 * Improving multi-hop time synchronization performance in wireless sensor networks based on packet- relaying gateways with per-hop delay compensation

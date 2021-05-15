@@ -16,8 +16,7 @@ Duisburg-Essen, Duisburg, Germany, in 2013 and 2017, both in computer engineerin
 He serves as a reviewer for journals including
 * IEEE Transactions on Communications
 * IEEE Sensors Journal
-* IEEE Sensors Letters
-* IEEE ACCESS
+* IEEE Transactions on Network Science and Engineering
 * More find on [publons](https://publons.com/researcher/4243832/xintao-huan/)
 
 News
