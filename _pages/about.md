@@ -11,7 +11,7 @@ redirect_from:
 Xintao Huan is a PhD student with the Department of Electrical Engineering and Electronics, the University of Liverpool, UK, and the Department of Electrical and Electronic Engineering, Xi’an Jiaotong-Liverpool University, China. His major reserach work centers around time synchronization & network security of Wireless Sensor Network (WSN) and Internet of Things (IoT); he investigates as well link quality maintenance in WSN and neural network assisted indoor localization. He is currently a part-time *Teaching Fellow* for bachelor module CAN304 Computer Systems Security.
 
 He received the B.Sc. degree and the M.Sc. degree from University of 
-Duisburg-Essen, Duisburg, Germany, in 2013 and 2017, both in computer engineering. He received the stipend of “Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen” for his study at University of Duisburg-Essen. He worked as research assistant at Prof.Marrón's [Networked Embedded Systems (NES)](https://www.nes.uni-due.de/) Group of University of Duisburg-Essen from 2012 to 2016. 
+Duisburg-Essen, Duisburg, Germany, in 2013 and 2017, both in computer engineering. He received the stipend of “Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen” for his study at University of Duisburg-Essen. He worked as research assistant at Prof.Marrón's [Networked Embedded Systems (NES)](https://www.nes.uni-due.de/) Group of University of Duisburg-Essen from 2012 to 2016.
 
 He serves as a reviewer for journals including
 * IEEE Transactions on Communications
@@ -21,6 +21,7 @@ He serves as a reviewer for journals including
 
 News
 ======
+* 10/06/2021 Our paper, ''Improving multi-hop time synchronization performance in wireless sensor networks based on packet-relaying gateways with per-hop delay compensation’’ has been accepted by *IEEE Transactions on Communications*.
 * 29/03/2021 Our paper, ''NISA: Node Identification and Spoofing Attack Detection Based on Clock Features and Radio Information for Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
 * 12/06/2020 Our paper, ''Per-Hop Delay Compensation in Time Synchronization for Multi-Hop Wireless Sensor Networks Based on Packet-Relaying Gateways’’ has been accepted by *IEEE Communications Letters*.
 * 2020 Computer and Communication Networks (CCN) Module of University of Birmingham recommended our BATS paper.<br />

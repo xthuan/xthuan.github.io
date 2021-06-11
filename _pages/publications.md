@@ -13,6 +13,7 @@ Please [email me](mailto:xintao.huan@liverpool.ac.uk) if you require a copy of t
 
 # Journal Article
 
+1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, Eng Gee Lim and Alan Marshall, "Improving multi-hop time synchronization performance in wireless sensor networks based on packet-relaying gateways with per-hop delay compensation", **IEEE Transactions on Communications**, accepted for publication, Jun. 2021.
 1. **Xintao Huan**, Kyeong Soo Kim and Junqing Zhang "NISA: Node identification and spoofing attack detection based on clock features and radio information for wireless sensor networks", **IEEE Transactions on Communications**, vol. 69, no. 7, Jul. 2021. [SCI] ([Link](https://ieeexplore.ieee.org/document/9398669))
 1. **Xintao Huan** and Kyeong Soo Kim, "Per-hop delay compensation in time synchronization for multi-hop wireless sensor networks based on packet-relaying gateways", **IEEE Communications Letters**, vol. 24, no. 10, pp. 2300–2304, Oct. 2020. [SCI] ([Link](https://ieeexplore.ieee.org/document/9117097))
 1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, Eng Gee Lim and Alan Marshall, "A Beaconless Asymmetric Energy-Efficient Time Synchronization Scheme for Resource-Constrained Multi-Hop Wireless Sensor Networks", **IEEE Transactions on Communications**, vol. 68, no. 3, pp. 1716–1730, Mar. 2020. [SCI] ([Link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8935413&isnumber=5497975))
