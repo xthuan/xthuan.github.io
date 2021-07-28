@@ -41,11 +41,3 @@ Contact
   Brownlow Hill,Liverpool L69 3GJ<br />
   United Kingdom
 </address>
-<br />
-<address>
-  Email: xintao.huan@xjtlu.edu.cn<br />
-  Department of Electrical and Electronic Engineering<br />
-  Xi'an Jiaotong-Liverpool University<br /> 
-  111 Ren'ai Road, Suzhou 215123<br />
-  China
-</address>
