@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xintao Huan received the Ph.D. degree in electrical engineering and electronics from the University of Liverpool, UK, in 2021, and the B.Sc. degree and the M.Sc. degree in computer engineering from the University of Duisburg-Essen, Germany, in 2013 and 2017. He received the stipend of “Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen” for his study at University of Duisburg-Essen. He worked as a research assistant at Prof.Marrón's [Networked Embedded Systems (NES)](https://www.nes.uni-due.de/) Group of University of Duisburg-Essen from 2012 to 2016.
+Xintao Huan is an [Assistant Professor](https://cst.bit.edu.cn/szdw/jsml/sssds/73f1fe954932411bac3d5e727582b21e.htm) at the School of Cyberspace Science and Technology, Beijing Institute of Technology, China. He received the Ph.D. degree in electrical engineering and electronics from the University of Liverpool, UK, in 2021, and the B.Sc. degree and the M.Sc. degree in computer engineering from the University of Duisburg-Essen, Germany, in 2013 and 2017. He received the stipend of “Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen” for his study at University of Duisburg-Essen. He worked as a research assistant at Prof.Marrón's [Networked Embedded Systems (NES)](https://www.nes.uni-due.de/) Group of University of Duisburg-Essen from 2012 to 2016.
 
 His major reserach work centers around time synchronization & network security of Wireless Sensor Network (WSN) and Internet of Things (IoT); he investigates as well link quality maintenance in WSN and neural network assisted indoor localization. He is currently a part-time *Teaching Fellow* for bachelor module CAN304 Computer Systems Security.
 
