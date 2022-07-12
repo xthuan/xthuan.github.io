@@ -20,6 +20,7 @@ He serves as a reviewer for journals including
 
 News
 ======
+* 06/07/2022 Our paper, ''A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
 * 10/06/2021 Our paper, ''Improving multi-hop time synchronization performance in wireless sensor networks based on packet-relaying gateways with per-hop delay compensation’’ has been accepted by *IEEE Transactions on Communications*.
 * 29/03/2021 Our paper, ''NISA: Node identification and spoofing attack detection based on clock features and radio information for wireless sensor networks’’ has been accepted by *IEEE Transactions on Communications*.
 * 12/06/2020 Our paper, ''Per-hop delay compensation in time synchronization for multi-hop wireless sensor networks based on packet-relaying gateways’’ has been accepted by *IEEE Communications Letters*.
