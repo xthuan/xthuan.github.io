@@ -12,6 +12,8 @@ Xintao Huan is an [Assistant Professor](https://cst.bit.edu.cn/szdw/jsml/sssds/7
 
 His major reserach work centers around time synchronization & network security of Wireless Sensor Network (WSN) and Internet of Things (IoT); he investigates as well link quality maintenance in WSN and neural network assisted indoor localization.
 
+He serves as a TPC member for decent conferences including ICC'23 and VTC'22.
+
 He serves as a reviewer for journals including
 * IEEE Transactions on Communications
 * IEEE Transactions on Vehicular Technology
