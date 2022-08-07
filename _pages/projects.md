@@ -5,8 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
-* Participate in, "EEG signal Analysis with modified Neural Network and Granular Computing; Analyzing the human action and thinking", Xi'an Jiaotong-Liverpool University Research Enhancement Fund (REF)-(under Grant REF-19-01-03), 49,200RMB, Oct.2019 to Sep. 2022
+* Principle Investigator, National Key Research and Development Program of China (under Grant No. 2021YFC3300200) Subsidiary Project, 1,000,000 RMB, Dec.2021 to Nov.2024
 
-* Co-Principle Investigator, “Feasibility Study of XJTLU Campus-Wide Indoor Localization System Based on Deep Neural Networks”, Xi'an Jiaotong-Liverpool University Key Programme Special Fund (KSF)–Exploratory Research Programme (under Grant KSF-E-25), 200,000RMB, Jan.2019 to Dec.2021
+* Principle Investigator, Beijing Institute of Technology Research Fund Program for Young Scholars, 400,000 RMB, Aug.2021 to Dec.2024
+
 
 * Participate in, EU-FP7 Project “PLANET: Platform for the Deployment and Operation of Heterogeneous Networked Cooperating Objects” (Grant agreement ID 257649), University Duisburg-Essen, 6,819,750Euro, Oct.2010 to Dec.2014

@@ -7,7 +7,11 @@ toc: true
 ---
 {% include toc %}
 
-## Teaching Fellow for 
+## Lecturer for 
+* **S1 2022-2023**
+	* UG Level @ BIT    - 100120044 Wireless Network Security
+	* PG Level @ BIT    - 1201004 Internet of Things Security 
+
 * **S2 2020-2021**
 	* UG Level     - CAN304 Computer Systems Security
 
