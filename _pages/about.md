@@ -38,9 +38,10 @@ News
 Contact
 ------
 <address>
-  Email: xintao.huan@liverpool.ac.uk<br />
-  Department of Electrical Engineering and Electronics<br />
-  University of Liverpool<br /> 
-  Brownlow Hill,Liverpool L69 3GJ<br />
-  United Kingdom
+  Email: xintao.huan@bit.edu.cn<br />
+  Office 621, Central Building,
+  School of Cyberspace Science and Technology<br />
+  Beijing Institute of Technology,<br /> 
+  Beijing<br />
+  China
 </address>
