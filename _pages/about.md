@@ -16,7 +16,7 @@ He serves as a TPC member for decent conferences including ICC'23 and VTC'22 Fal
 
 He serves as a reviewer for journals including
 * IEEE Transactions on Communications
-* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Wireless Communications
 * IEEE Sensors Journal
 * More find on [publons](https://publons.com/researcher/4243832/xintao-huan/)
 
