@@ -24,10 +24,10 @@ News
 ======
 * 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
 * 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE GLOBECOM 2023*.
-* 01/06/2023 - 15/01/2024 Serve as Guest Editor for Special Issue ''Precise Timing and Security in Internet of Things’’ in Electronics journal, welcome submissions!([Link](https://www.mdpi.com/journal/electronics/special_issues/RH2PT9A14V))<br />
+* 01/06/2023 - 15/01/2024 Serve as Guest Editor for Special Issue ''Precise Timing and Security in Internet of Things’’ in Electronics journal, welcome submissions! ([Link](https://www.mdpi.com/journal/electronics/special_issues/RH2PT9A14V))<br />
 <img src="images/SI.png" width="70%">
 
-* 24/06/2023 Serve as Co-Chair for Session ''Consensus Problem in Autonomous System’’ in 2023 6th International Symposium on Autonomous Systems, ISAS 2023.<br />
+* 24/06/2023 Serve as Session Chair for Session ''Consensus Problem in Autonomous System’’ in 2023 6th International Symposium on Autonomous Systems, ISAS 2023.<br />
 <img src="images/isas1.jpg" width="70%">
 
 * 06/07/2022 Our paper, ''A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
