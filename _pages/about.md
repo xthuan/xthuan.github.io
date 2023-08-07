@@ -12,7 +12,7 @@ Xintao Huan is an [Assistant Professor](https://cst.bit.edu.cn/szdw/jsml/sssds/7
 
 His major reserach work centers around time synchronization & network security of low-power wireless networks including wireless sensor network and LoRa; he investigates as well wireless sensing based on artificial intelligence.
 
-He serves as a TPC member for decent conferences including ICC'23 and VTC'22 Fall.
+He serves as a Session Chair/TPC member for decent conferences including ICC'23,24, GC'23, ISAS'23 and VTC'22,23.
 
 He serves as a reviewer for journals including
 * IEEE Transactions on Communications
@@ -22,6 +22,8 @@ He serves as a reviewer for journals including
 
 News
 ======
+* 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
+* 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE IEEE GLOBECOM 2023*.
 * 06/07/2022 Our paper, ''A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
 * 10/06/2021 Our paper, ''Improving multi-hop time synchronization performance in wireless sensor networks based on packet-relaying gateways with per-hop delay compensation’’ has been accepted by *IEEE Transactions on Communications*.
 * 29/03/2021 Our paper, ''NISA: Node identification and spoofing attack detection based on clock features and radio information for wireless sensor networks’’ has been accepted by *IEEE Transactions on Communications*.
