@@ -24,6 +24,9 @@ News
 ======
 * 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
 * 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE GLOBECOM 2023*.
+* 01/06/2023 - 15/01/2024 Serve as Guest Editor for Special Issue ''Precise Timing and Security in Internet of Things’’ in Electronics journal, welcome submissions!<br />
+<img src="images/SI.png" width="70%">
+
 * 24/06/2023 Serve as Co-Chair for Session ''Consensus Problem in Autonomous System’’ in 2023 6th International Symposium on Autonomous Systems, ISAS 2023.<br />
 <table><tr>
 <td><img src="images/isas1.jpg" border=0></td>
