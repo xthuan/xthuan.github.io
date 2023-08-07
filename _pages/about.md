@@ -23,7 +23,13 @@ He serves as a reviewer for journals including
 News
 ======
 * 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
-* 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE IEEE GLOBECOM 2023*.
+* 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE GLOBECOM 2023*.
+* 24/06/2023 Serve as Co-Chair for Session ''Consensus Problem in Autonomous System’’ in 2023 6th International Symposium on Autonomous Systems, ISAS 2023.<br />
+<table><tr>
+<td><img src="images/isas1.jpg" border=0></td>
+<td><img src="images/isas2.jpg" border=0></td>
+</tr></table>
+
 * 06/07/2022 Our paper, ''A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
 * 10/06/2021 Our paper, ''Improving multi-hop time synchronization performance in wireless sensor networks based on packet-relaying gateways with per-hop delay compensation’’ has been accepted by *IEEE Transactions on Communications*.
 * 29/03/2021 Our paper, ''NISA: Node identification and spoofing attack detection based on clock features and radio information for wireless sensor networks’’ has been accepted by *IEEE Transactions on Communications*.
