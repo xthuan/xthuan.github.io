@@ -12,7 +12,7 @@ Please [email me](mailto:xintao.huan@liverpool.ac.uk) if you require a copy of t
 {% include toc %}
 
 # Journal Article
-1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, Yuanqing Zheng, "A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework", **IEEE Transactions on Communications**, accepted for publication, Aug. 2023.
+1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, Yuanqing Zheng, "A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework", **IEEE Transactions on Communications**, Early Access, Aug. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10218323))
 1. **Xintao Huan**, Hanxiang He, Tianli Wang, Qigang Wu and Han Hu, "A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks", **IEEE Transactions on Communications**, vol. 70, no. 9, pp. 6109-6121, Sep. 2022. [SCI] ([Link](https://ieeexplore.ieee.org/document/9816047))
 1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, Eng Gee Lim and Alan Marshall, "Improving multi-hop time synchronization performance in wireless sensor networks based on packet-relaying gateways with per-hop delay compensation", **IEEE Transactions on Communications**, vol. 69, no. 9, pp. 6093-6105, Sep. 2021. [SCI] ([Link](https://ieeexplore.ieee.org/document/9464289))
 1. **Xintao Huan**, Kyeong Soo Kim and Junqing Zhang "NISA: Node identification and spoofing attack detection based on clock features and radio information for wireless sensor networks", **IEEE Transactions on Communications**, vol. 69, no. 7, pp. 4691-4703, Jul. 2021. [SCI] ([Link](https://ieeexplore.ieee.org/document/9398669))
