@@ -22,7 +22,7 @@ He serves as a reviewer for journals including
 
 News
 ======
-* 17/08/2023 Delivered a talk at Western University, Canada, titled ''From Time Synchronization to Wireless Security: An Interdisciplinary Research’’, sponsored by IEEE ComSoc London Section Joint Chapter.([https://events.vtools.ieee.org/m/369822](https://events.vtools.ieee.org/m/369822))
+* 17/08/2023 Delivered a talk at Western University, Canada, titled ''From Time Synchronization to Wireless Security: An Interdisciplinary Research’’, sponsored by IEEE ComSoc London Section Joint Chapter. ([https://events.vtools.ieee.org/m/369822](https://events.vtools.ieee.org/m/369822))
 
 * 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
 * 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE GLOBECOM 2023*.
