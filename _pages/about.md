@@ -23,8 +23,8 @@ He serves as a reviewer for journals including
 News
 ======
 * 12/10/2023 Our paper, ''基于自主舍弃与校准的鲁棒物联网设备无线密钥生成方法’’ has been accepted by *《信息网络安全》* (中文核心期刊).
-* 28/09/2023 Start to serve as an Associate Editor of IEEE Sensors Journal (SCI Q1)([Link](https://ieee-sensors.org/ieee-sensors-journal/))
-* 17/08/2023 Delivered a talk at Western University, Canada, titled ''From Time Synchronization to Wireless Security: An Interdisciplinary Research’’, sponsored by IEEE ComSoc London Section Joint Chapter. ([https://events.vtools.ieee.org/m/369822](https://events.vtools.ieee.org/m/369822))
+* 28/09/2023 Start to serve as an Associate Editor of IEEE Sensors Journal (SCI Q1) ([Link](https://ieee-sensors.org/ieee-sensors-journal/))
+* 17/08/2023 Deliver a talk at Western University, Canada, titled ''From Time Synchronization to Wireless Security: An Interdisciplinary Research’’, sponsored by IEEE ComSoc London Section Joint Chapter. ([https://events.vtools.ieee.org/m/369822](https://events.vtools.ieee.org/m/369822))
 
 * 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
 * 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE GLOBECOM 2023*.
