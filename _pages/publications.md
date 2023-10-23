@@ -7,7 +7,7 @@ toc: true
 ---
 His citation profile in [Google Scholar](https://scholar.google.co.uk/citations?user=3Fmo-eUAAAAJ&hl=en&oi=ao).
 
-Please [email me](mailto:xintao.huan@liverpool.ac.uk) if you require a copy of the paper.
+Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the paper.
 
 {% include toc %}
 
