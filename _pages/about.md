@@ -22,10 +22,10 @@ He serves as a reviewer for journals including
 
 News
 ======
+* 24/10/2023 Our paper, ''Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review’’ has been accepted by *IEEE Internet of Things Journal*.
 * 12/10/2023 Our paper, ''基于自主舍弃与校准的鲁棒物联网设备无线密钥生成方法’’ has been accepted by *《信息网络安全》* (中文核心期刊).
 * 28/09/2023 Start to serve as an Associate Editor of IEEE Sensors Journal (SCI Q1) ([Link](https://ieee-sensors.org/ieee-sensors-journal/))
 * 17/08/2023 Deliver a talk at Western University, Canada, titled ''From Time Synchronization to Wireless Security: An Interdisciplinary Research’’, sponsored by IEEE ComSoc London Section Joint Chapter. ([https://events.vtools.ieee.org/m/369822](https://events.vtools.ieee.org/m/369822))
-
 * 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
 * 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE GLOBECOM 2023*.
 * 01/06/2023 - 15/01/2024 Serve as Guest Editor for Special Issue ''Precise Timing and Security in Internet of Things’’ in Electronics journal, welcome submissions! ([Link](https://www.mdpi.com/journal/electronics/special_issues/RH2PT9A14V))<br />
