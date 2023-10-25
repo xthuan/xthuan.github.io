@@ -12,7 +12,7 @@ Xintao Huan is an [Assistant Professor](https://cst.bit.edu.cn/szdw/jsml/sssds/7
 
 His major reserach work centers around time synchronization & network security of low-power wireless networks including wireless sensor network and LoRa; he investigates as well wireless sensing based on artificial intelligence.
 
-He is an Associate Editor of IEEE Sensors Journal and a Guest Editor of Electronics. He also serves as a Session Chair/TPC member for decent conferences including ICC'23,24, GC'23, ISAS'23 and VTC'22,23.
+He is an *Associate Editor* of IEEE Sensors Journal and a *Guest Editor* of Electronics. He also serves as a Session Chair/TPC member for decent conferences including ICC'23,24, GC'23, ISAS'23 and VTC'22,23.
 
 He serves as a reviewer for journals including
 * IEEE Transactions on Communications
