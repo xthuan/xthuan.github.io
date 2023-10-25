@@ -10,9 +10,9 @@ redirect_from:
 
 Xintao Huan is an [Assistant Professor](https://cst.bit.edu.cn/szdw/jsml/sssds/73f1fe954932411bac3d5e727582b21e.htm) at the School of Cyberspace Science and Technology, Beijing Institute of Technology, China. He received the Ph.D. degree in electrical engineering and electronics from the University of Liverpool, UK, in 2021, and the B.Sc. degree and the M.Sc. degree in computer engineering from the University of Duisburg-Essen, Germany, in 2013 and 2017. He received the stipend of “Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen” for his study at University of Duisburg-Essen. He worked as a research assistant at Prof.Marrón's [Networked Embedded Systems (NES)](https://www.nes.uni-due.de/) Group of University of Duisburg-Essen from 2012 to 2016.
 
-His major reserach work centers around time synchronization & network security of low-power wireless networks including wireless sensor network and LoRa; he investigates as well wireless sensing based on artificial intelligence.
+His major reserach work centers around time synchronization & network security of Internet-of-Things low-power wireless networks such as wireless sensor network and LoRa; he also investigates wireless sensing based on artificial intelligence.
 
-He is an *Associate Editor* of *IEEE Sensors Journal* and a *Guest Editor* of *Electronics*. He serves as a Session Chair/TPC member for decent conferences including ICC'23,24, GC'23, ISAS'23 and VTC'22,23. He also serves as a reviewer for top journals including IEEE TCOM, TWC, TVT, IOTJ, SJ, etc., more please find on [publons](https://publons.com/researcher/4243832/xintao-huan/)
+He is an Associate Editor of *IEEE Sensors Journal* and a Guest Editor of *Electronics*. He serves as a Session Chair/TPC member for international conferences including *ICC*'23,24, *GC*'23, *ISAS*'23 and *VTC*'22,23. He also serves as a reviewer for top journals including *IEEE TCOM*, *TWC*, *TVT*, *IOTJ*, *SJ*, etc., more please find on [publons](https://publons.com/researcher/4243832/xintao-huan/).
 
 News
 ======
