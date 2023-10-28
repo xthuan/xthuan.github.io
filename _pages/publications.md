@@ -12,7 +12,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 {% include toc %}
 
 # Journal Article
-1. **Xintao Huan**, Yi Hao, Kaitao Miao, Hanxiang He, Han Hu, "Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review", **IEEE Internet of Things Journal**, Accepted for Publication, Oct. 2023. [SCI]
+1. **Xintao Huan**, Yi Hao, Kaitao Miao, Hanxiang He, Han Hu, "Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review", **IEEE Internet of Things Journal**, Early Access, Oct. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10298261))
 1. **郇鑫焘**, 缪凯焘, 陈稳, 吴畅帆, "基于自主舍弃与校准的鲁棒物联网设备无线密钥生成方法", **《信息网络安全》**, 已录用, Oct. 2023. [中文核心]
 1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, Yuanqing Zheng, "A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework", **IEEE Transactions on Communications**, Early Access, Aug. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10218323))
 1. **Xintao Huan**, Hanxiang He, Tianli Wang, Qigang Wu and Han Hu, "A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks", **IEEE Transactions on Communications**, vol. 70, no. 9, pp. 6109-6121, Sep. 2022. [SCI] ([Link](https://ieeexplore.ieee.org/document/9816047))
