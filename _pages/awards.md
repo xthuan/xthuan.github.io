@@ -5,6 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Best Paper Award, The 2023 IEEE Global Communications Conference (GLOBECOM), 2023
+
 * First Class Award, China Association of Invention - Innovation Award, 2023
 
 * Excellent Award, The 16th National College Students Information Security Competition, 2023
