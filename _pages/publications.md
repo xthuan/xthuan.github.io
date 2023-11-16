@@ -13,7 +13,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 
 # Journal Article
 1. **Xintao Huan**, Yi Hao, Kaitao Miao, Hanxiang He, Han Hu, "Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review", **IEEE Internet of Things Journal**, Early Access, Oct. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10298261))
-1. **郇鑫焘**, 缪凯焘, 陈稳, 吴畅帆, "基于自主舍弃与校准的鲁棒物联网设备无线密钥生成方法", **《信息网络安全》**, 已录用, Oct. 2023. [中文核心]
+1. **郇鑫焘**, 缪凯焘, 陈稳, 吴畅帆, "基于自主舍弃与校准的鲁棒物联网设备无线密钥生成方法[J]", **信息网络安全**, 2023, 23(11):17-26. [中文核心]([Link](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2023.11.003))
 1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, Yuanqing Zheng, "A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework", **IEEE Transactions on Communications**, Early Access, Aug. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10218323))
 1. **Xintao Huan**, Hanxiang He, Tianli Wang, Qigang Wu and Han Hu, "A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks", **IEEE Transactions on Communications**, vol. 70, no. 9, pp. 6109-6121, Sep. 2022. [SCI] ([Link](https://ieeexplore.ieee.org/document/9816047))
 1. **Xintao Huan**, Kyeong Soo Kim, Sanghyuk Lee, Eng Gee Lim and Alan Marshall, "Improving multi-hop time synchronization performance in wireless sensor networks based on packet-relaying gateways with per-hop delay compensation", **IEEE Transactions on Communications**, vol. 69, no. 9, pp. 6093-6105, Sep. 2021. [SCI] ([Link](https://ieeexplore.ieee.org/document/9464289))
