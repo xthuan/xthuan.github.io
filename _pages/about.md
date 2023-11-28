@@ -16,6 +16,7 @@ He is an Associate Editor of *IEEE Sensors Journal* and a Guest Editor of *Elect
 
 News
 ======
+* 28/11/2023 Our paper, ''A Microsecond Energy-Efficient LoRa Time Synchronization Based on Low-Layer Timestamping and Asymmetric Time Translation’’ has been accepted by *IEEE Transactions on Vehicular Technology*.
 * 24/10/2023 Our paper, ''Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review’’ has been accepted by *IEEE Internet of Things Journal*.
 * 12/10/2023 Our paper, ''基于自主舍弃与校准的鲁棒物联网设备无线密钥生成方法’’ has been accepted by *《信息网络安全》* (中文核心期刊).
 <!-- * 28/09/2023 Start to serve as an Associate Editor of *IEEE Sensors Journal* (SCI Q1) ([Link](https://ieee-sensors.org/ieee-sensors-journal/)) -->
