@@ -12,7 +12,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 {% include toc %}
 
 # Journal Article
-1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, "A Microsecond Energy-Efficient LoRa Time Synchronization Based on Low-Layer Timestamping and Asymmetric Time Translation", **IEEE Transactions on Vehicular Technology**, Accepted for Publication, Nov. 2023.
+1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, "A Microsecond Energy-Efficient LoRa Time Synchronization Based on Low-Layer Timestamping and Asymmetric Time Translation", **IEEE Transactions on Vehicular Technology**, Early Access, Nov. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10342787))
 1. **Xintao Huan**, Yi Hao, Kaitao Miao, Hanxiang He, Han Hu, "Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review", **IEEE Internet of Things Journal**, Early Access, Oct. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10298261))
 1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, Yuanqing Zheng, "A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework", **IEEE Transactions on Communications**, vol. 71, no. 11, pp. 6468-6481, Nov. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10218323))
 1. **郇鑫焘**, 缪凯焘, 陈稳, 吴畅帆, "基于自主舍弃与校准的鲁棒物联网设备无线密钥生成方法[J]", **信息网络安全**, 2023, 23(11):17-26. [中文核心] ([Link](http://netinfo-security.org/CN/10.3969/j.issn.1671-1122.2023.11.003))
