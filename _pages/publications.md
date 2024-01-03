@@ -10,7 +10,8 @@ His citation profile in [Google Scholar](https://scholar.google.co.uk/citations?
 Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the paper.
 
 {% include toc %}
-
+# Book
+1. **Xintao Huan**, "Time Synchronization in Wireless Sensor Networks", Shandong University Press, 2023. ([Link](https://detail.tmall.com/item.htm?abbucket=18&id=750178434207&ns=1&spm=a21n57.1.0.0.4c09523cYbldhK))
 # Journal Article
 1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, "A Microsecond Energy-Efficient LoRa Time Synchronization Based on Low-Layer Timestamping and Asymmetric Time Translation", **IEEE Transactions on Vehicular Technology**, Early Access, Nov. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10342787))
 1. **Xintao Huan**, Yi Hao, Kaitao Miao, Hanxiang He, Han Hu, "Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review", **IEEE Internet of Things Journal**, Early Access, Oct. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10298261))
