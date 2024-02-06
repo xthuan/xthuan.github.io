@@ -28,6 +28,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 1. Sihao Li, Kyeong Soo Kim *, Linlin Zhang, **Xintao Huan**, Jeremy Smith,"Energy-Efficient Message Bundling with Delay and Synchronization Constraints in Wireless Sensor Networks", **Sensors**, accepted for publication, Jul. 2022. [SCI]
 
 # Conference Paper
+1. **Xintao Huan**, Wen Chen, Changfan Wu, Jiamin Liu, Yixuan Zou, Shengkang Zhang, "Secure Node Identification Through Covert Clock Feature Extraction", accepted for publication, IEEE INFOCOM 2024 DeepWireless, Feb. 2024.
 1. Hanxiang He, Han Hu, **Xintao Huan**, Heng Liu, Jianping An, Shiwen Mao, "AI Generated Signal for Wireless Sensing", accepted for publication, IEEE GLOBECOM 2023, Jul. 2023.
 1. Yi Hao, **Xintao Huan** \*, Kaitao Miao and Han Hu, "Non-Consensus Crystal Oscillators Enhanced Radio Frequency Fingerprinting: State-of-The-Art," 2023 6th International Symposium on Autonomous Systems (ISAS), Nanjing, China, pp. 1-6, 2023. [EI] ([Link](https://ieeexplore.ieee.org/document/10164489))
 1. Songwei Fu, Matteo Ceriotti, Yuming Jiang, Chia-Yen Shih, **Xintao Huan**, Pedro José Marrón, "An Approach to Detect Anomalous Degradation in Signal Strength of IEEE 802.15.4 Links," 2018 15th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON), Hong Kong, Jun. 2018. [EI] ([Link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8397126&isnumber=8397083))
