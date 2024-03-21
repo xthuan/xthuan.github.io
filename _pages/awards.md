@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* AI Teaching Innovation Award, Zhihuishu Online Education, 2024
+* AI Teaching Innovation Award, National Smart Education Platform for Higher Education - Zhihuishu, 2024
 
 * Best Paper Award, The 2023 IEEE Global Communications Conference (GLOBECOM), 2023
 
