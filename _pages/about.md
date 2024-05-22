@@ -16,6 +16,7 @@ He is an Associate Editor of *IEEE Sensors Journal* and a Guest Editor of *Elect
 
 News
 ======
+* 22/05/2024 Our paper, ''Kerra: An Internet-of-Things Wireless Key Generation Resistant to Replay Attacks’’ has been accepted by *IEEE Internet of Things Journal*.
 * 06/02/2024 Our paper, ''Secure Node Identification Through Covert Clock Feature Extraction’’ has been accepted by *IEEE INFOCOM 2024 DeepWireless*.
 * 28/11/2023 Our paper, ''A Microsecond Energy-Efficient LoRa Time Synchronization Based on Low-Layer Timestamping and Asymmetric Time Translation’’ has been accepted by *IEEE Transactions on Vehicular Technology*.
 * 24/10/2023 Our paper, ''Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review’’ has been accepted by *IEEE Internet of Things Journal*.
