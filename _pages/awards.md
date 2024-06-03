@@ -4,6 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* First Class Award, Basic Teaching Skills Competition of Young Teachers, CST, BIT, 2024 
 
 * AI Teaching Innovation Award, National Smart Education Platform for Higher Education - Zhihuishu, 2024
 
@@ -17,6 +18,6 @@ author_profile: true
 
 * Second Class Award (Beijing Area), The 8th China International "Internet Plus" College Students Innovation and Entrepreneurship Competition, 2022 
 
-* Second Class Award, Basic Teaching Skills Competition for Young Teachers, CST, BIT, 2022 
+* Second Class Award, Basic Teaching Skills Competition of Young Teachers, CST, BIT, 2022 
 
 * Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen, University Duisburg-Essen, Germany
