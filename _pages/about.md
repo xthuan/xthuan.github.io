@@ -12,7 +12,7 @@ Xintao Huan is an [Assistant Professor](https://cst.bit.edu.cn/szdw/jsml/sssds/7
 
 His major reserach work centers around time synchronization & network security of Internet-of-Things low-power wireless networks such as wireless sensor network and LoRa; he also investigates wireless sensing based on artificial intelligence.
 
-He is an Associate Editor of *IEEE Sensors Journal* and a Guest Editor of *Journal of BIT* and *Electronics*. He is an Executive Member of CCF Pervasive Computing Committee. He serves as a Session Chair / TPC member for international conferences including *ICC’23*,*24*, *GLOBECOM’23*,*24*, *ISAS’23* and *VTC’23*,*24*. He also serves as a reviewer for top journals including *ACM Computing Surveys* *IEEE TCOM*, *TWC*, *TMC*, *TVT*, *IOTJ*, *SJ*, etc., more please find on [publons](https://publons.com/researcher/4243832/xintao-huan/).
+He is an Associate Editor of *IEEE Sensors Journal* and a Guest Editor of *Journal of BIT* and *Electronics*. He is an Executive Member of CCF Pervasive Computing Committee. He serves as a Session Chair / TPC member for international conferences including *ICC’23*,*24*, *GLOBECOM’23*,*24*, *ISAS’23* and *VTC’23*,*24*. He also serves as a reviewer for top journals including *ACM Computing Surveys*, *IEEE TCOM*, *TWC*, *TMC*, *TVT*, *IOTJ*, *SJ*, etc., more please find on [publons](https://publons.com/researcher/4243832/xintao-huan/).
 
 News
 ======
