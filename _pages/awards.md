@@ -4,6 +4,10 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Future Network Leading Innovation and Technology Achievements, China Institute of Communications (CIC), 2024
+
+* Second Class Award, The 17th National College Students Information Security Competition, 2024
+
 * First Class Award, Basic Teaching Skills Competition of Young Teachers, CST, BIT, 2024 
 
 * AI Teaching Innovation Award, National Smart Education Platform for Higher Education - Zhihuishu, 2024
