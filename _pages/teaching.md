@@ -8,6 +8,10 @@ toc: true
 {% include toc %}
 
 ## Lecturer for 
+* **S1 2024-2025**
+	* UG Level @ BIT    - 100120044 Wireless Network Security
+	* PG Level @ BIT    - 1201004 Internet of Things Security 
+
 * **S1 2023-2024**
 	* UG Level @ BIT    - 100120044 Wireless Network Security
 	* PG Level @ BIT    - 1201004 Internet of Things Security 
