@@ -16,6 +16,7 @@ He is an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member o
 
 News
 ======
+* 04/09/2024 Our paper, ''P^3ID: A Privacy-Preserving Person Identification Framework Towards Multi-Environments Based on Transfer Learning’’ has been accepted by *IEEE Transactions on Mobile Computing*.
 * 22/05/2024 Our paper, ''Kerra: An Internet-of-Things Wireless Key Generation Resistant to Replay Attacks’’ has been accepted by *IEEE Internet of Things Journal*.
 * 06/02/2024 Our paper, ''Secure Node Identification Through Covert Clock Feature Extraction’’ has been accepted by *IEEE INFOCOM 2024 DeepWireless*.
 * 28/11/2023 Our paper, ''A Microsecond Energy-Efficient LoRa Time Synchronization Based on Low-Layer Timestamping and Asymmetric Time Translation’’ has been accepted by *IEEE Transactions on Vehicular Technology*.
