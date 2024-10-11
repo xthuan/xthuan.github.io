@@ -24,8 +24,8 @@ toc: true
 	* UG Level @ BIT    - 100120044 Wireless Network Security
 	* PG Level @ BIT    - 1201004 Internet of Things Security 
 
-* **S2 2020-2021**
-	* UG Level     - CAN304 Computer Systems Security
+<!-- * **S2 2020-2021**
+	* UG Level     - CAN304 Computer Systems Security -->
 
 <!-- ## Teaching Assistant for 
 * **S1 2020-2021**
