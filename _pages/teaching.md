@@ -7,6 +7,10 @@ toc: true
 ---
 {% include toc %}
 
+## Principle Investigator of
+* **Excellent Courses of Beijing Institute of Technology** （1201004 Internet of Things Security）
+* **Collaborative Education Project of China Ministry of Education** (100120044 Wireless Network Security)
+
 ## Lecturer for 
 * **S1 2024-2025**
 	* UG Level @ BIT    - 100120044 Wireless Network Security
@@ -23,7 +27,7 @@ toc: true
 * **S2 2020-2021**
 	* UG Level     - CAN304 Computer Systems Security
 
-## Teaching Assistant for 
+<!-- ## Teaching Assistant for 
 * **S1 2020-2021**
 	* UG level     - INT309 Multimedia Information Retrieval and Technology
 	* Master level - CAN405 Data Communication and Communication Networks
@@ -36,4 +40,4 @@ toc: true
 	* Master level - EEE415 Multimedia Communications
 * **S1 2018-2019**
 	* UG level     - EEE333 Multimedia Information Retrieval and Technology
-	* Master level - EEE413 Data Communication and Communication Networks
+	* Master level - EEE413 Data Communication and Communication Networks -->
