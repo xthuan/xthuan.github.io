@@ -14,7 +14,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 1. **Xintao Huan**, "Time Synchronization in Wireless Sensor Networks", Shandong University Press, 2023. ([Link](https://detail.tmall.com/item.htm?abbucket=18&id=750178434207&ns=1&spm=a21n57.1.0.0.4c09523cYbldhK))
 
 # Journal Article
-1. **Xintao Huan**, Kaitao Miao, Jiamin Liu, Changfan Wu, Wen Chen, Rui Pei, Han Hu,"KGPT: Wireless Key Generation Based on Power Tuning for Static Internet-of-Things", Accepted for Publication, **IEEE Transactions on Industrial Informatics**, Dec. 2024.
+1. **Xintao Huan**, Kaitao Miao, Jiamin Liu, Changfan Wu, Wen Chen, Rui Pei, Han Hu, "KGPT: Wireless Key Generation Based on Power Tuning for Static Internet-of-Things", Accepted for Publication, **IEEE Transactions on Industrial Informatics**, Dec. 2024.
 1. Hanxiang He, **Xintao Huan**, Jing Wang, Yong Luo, Han Hu, Jianping An, "P^3ID: A Privacy-Preserving Person Identification Framework Towards Multi-Environments Based on Transfer Learning", Early Access, **IEEE Transactions on Mobile Computing**, Sep. 2024. [SCI] ([Link](https://ieeexplore.ieee.org/document/10679703))
 1. **Xintao Huan**, Kaitao Miao, Wen Chen, Pengyi Jia, Han Hu, "Kerra: An Internet-of-Things Wireless Key Generation Resistant to Replay Attacks", **IEEE Internet of Things Journal**, vol. 11, no. 17, pp. 29035-29048, Sep. 2024. [SCI] ([Link](https://ieeexplore.ieee.org/document/10540488))
 1. **Xintao Huan**, Wen Chen, Tianli Wang, Han Hu, Yuanqing Zheng, "A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework", **IEEE Transactions on Communications**, vol. 71, no. 11, pp. 6468-6481, Nov. 2023. [SCI] ([Link](https://ieeexplore.ieee.org/document/10218323))
