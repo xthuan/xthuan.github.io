@@ -4,6 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* First Class Award, Beijing Universities Basic Teaching Skills Competition of Higher Education Teachers for International Students, **Beijing Municipal Education Commission**, 2024
+
 * Second Class Award, The 14th Basic Teaching Skills Competition of Young Teachers, **Beijing Institute of Technology**, 2024
 
 * Future Network Leading Innovation and Technology Achievements Award, **China Institute of Communications (CIC)**, 2024
