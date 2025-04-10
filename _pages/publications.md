@@ -32,7 +32,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 1. Sihao Li, Kyeong Soo Kim *, Linlin Zhang, **Xintao Huan**, and Jeremy Smith, "Energy-Efficient Message Bundling with Delay and Synchronization Constraints in Wireless Sensor Networks", **Sensors**, vol. 22, no. 14:5276, Jul. 2022. [SCI]
 1. Bidan Zhang, Guannan He, Yang Du, Haoran Wen, **Xintao Huan**, Bowen Xing and Jingsi Huang, "Assessment of the Economic Impact of Forecasting Errors in Peer-to-Peer Energy Trading", **Applied Energy**, vol. 374, no. 123750, Jun. 2024. [SCI] ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011334))
 1. Han Hu, Kaifeng Song, Rongfei Fan, Cheng Zhan, **Xintao Huan**, Jie Xu, "Toward Communication-Efficient Holographic Video Transmission Through Semantic Communication and Edge Intelligence", **IEEE Wireless Communications**, vol. 32, no. 2, Apr. 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/10944632))
-1. Weijun Cheng, Wenjing Wei, Xiaoshi Liu; **Xintao Huan**, "Joint Deep Reinforcement Learning and Stackelberg Game with Intervention for Heterogeneous Edge Computing in Industrial Internet of Things", **IEEE Internet of Things Journal**, Accepted for Publication, Apr. 2025.
+1. Weijun Cheng, Wenjing Wei, Xiaoshi Liu; **Xintao Huan**, "Joint Deep Reinforcement Learning and Stackelberg Game with Intervention for Heterogeneous Edge Computing in Industrial Internet of Things", **IEEE Internet of Things Journal**, Accepted for Publication, Apr. 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/10960345))
 
 
 # Conference Paper
