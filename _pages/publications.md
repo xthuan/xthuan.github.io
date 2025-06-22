@@ -14,6 +14,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 1. **Xintao Huan**, "Time Synchronization in Wireless Sensor Networks", Shandong University Press, 2023. ([Link](https://detail.tmall.com/item.htm?abbucket=18&id=750178434207&ns=1&spm=a21n57.1.0.0.4c09523cYbldhK))
 
 # Journal Article
+1. Weijun Cheng, Wenjing Wei, Xiaoshi Liu; **Xintao Huan** \*, "Joint Deep Reinforcement Learning and Stackelberg Game with Intervention for Heterogeneous Edge Computing in Industrial Internet of Things", **IEEE Internet of Things Journal**, Accepted for Publication, Apr. 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/10960345))
 1. **Xintao Huan**, Kaitao Miao, Jiamin Liu, Changfan Wu, Wen Chen, Rui Pei, Han Hu, "KGPT: Wireless Key Generation Based on Power Tuning for Static Internet-of-Things", **IEEE Transactions on Industrial Informatics**, vol. 21, no. 3, pp. 2610-2619, March 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/10814986))
 1. Hanxiang He, **Xintao Huan** \*, Jing Wang, Yong Luo, Han Hu, Jianping An, "P^3ID: A Privacy-Preserving Person Identification Framework Towards Multi-Environments Based on Transfer Learning", **IEEE Transactions on Mobile Computing**, vol. 24, no. 1, pp. 102-116, Jan. 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/10679703))
 1. **Xintao Huan**, Kaitao Miao, Wen Chen, Pengyi Jia, Han Hu, "Kerra: An Internet-of-Things Wireless Key Generation Resistant to Replay Attacks", **IEEE Internet of Things Journal**, vol. 11, no. 17, pp. 29035-29048, Sep. 2024. [SCI] ([Link](https://ieeexplore.ieee.org/document/10540488))
@@ -32,7 +33,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 1. Sihao Li, Kyeong Soo Kim *, Linlin Zhang, **Xintao Huan**, and Jeremy Smith, "Energy-Efficient Message Bundling with Delay and Synchronization Constraints in Wireless Sensor Networks", **Sensors**, vol. 22, no. 14:5276, Jul. 2022. [SCI]
 1. Bidan Zhang, Guannan He, Yang Du, Haoran Wen, **Xintao Huan**, Bowen Xing and Jingsi Huang, "Assessment of the Economic Impact of Forecasting Errors in Peer-to-Peer Energy Trading", **Applied Energy**, vol. 374, no. 123750, Jun. 2024. [SCI] ([Link](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011334))
 1. Han Hu, Kaifeng Song, Rongfei Fan, Cheng Zhan, **Xintao Huan**, Jie Xu, "Toward Communication-Efficient Holographic Video Transmission Through Semantic Communication and Edge Intelligence", **IEEE Wireless Communications**, vol. 32, no. 2, Apr. 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/10944632))
-1. Weijun Cheng, Wenjing Wei, Xiaoshi Liu; **Xintao Huan**, "Joint Deep Reinforcement Learning and Stackelberg Game with Intervention for Heterogeneous Edge Computing in Industrial Internet of Things", **IEEE Internet of Things Journal**, Accepted for Publication, Apr. 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/10960345))
+
 
 
 # Conference Paper
