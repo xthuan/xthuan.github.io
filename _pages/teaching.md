@@ -8,10 +8,15 @@ toc: true
 {% include toc %}
 
 ## Principle Investigator of
-* **Excellent Courses of Beijing Institute of Technology** （1201004 Internet of Things Security）
+* **Ministry of Education - Huawei Smart Base 2.0 Course** (1201004 Internet of Things Security)
 * **Collaborative Education Project of China Ministry of Education** (100120044 Wireless Network Security)
+* **Excellent Courses of Beijing Institute of Technology** （1201004 Internet of Things Security）
 
 ## Lecturer for 
+* **S1 2025-2026**
+	* UG Level @ BIT    - 100120044 Wireless Network Security
+	* PG Level @ BIT    - 1201004 Internet of Things Security 
+
 * **S1 2024-2025**
 	* UG Level @ BIT    - 100120044 Wireless Network Security
 	* PG Level @ BIT    - 1201004 Internet of Things Security 
