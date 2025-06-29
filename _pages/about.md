@@ -12,14 +12,14 @@ Xintao Huan is an [Assistant Professor](https://cst.bit.edu.cn/szdw/jsml/sssds/7
 
 His major reserach work centers around time synchronization & network security of Internet-of-Things low-power wireless networks such as wireless sensor network and LoRa; he also investigates wireless sensing based on artificial intelligence.
 
-He is an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member of *Journal of Cybersecurity* and a Guest Editor of *Journal of BIT* and *Electronics*. He is an Executive Member of *CCF Pervasive Computing Committee*. He serves as a Session Chair / TPC member for international conferences including *ICC’23*,*24*, *GLOBECOM’23*,*24*, *ISAS’23* and *VTC’23*,*24*. He also serves as a reviewer for top journals including *ACM Computing Surveys*, *IEEE TCOM*, *TWC*, *TMC*, *TVT*, *IOTJ*, *SJ*, etc., more please find on [publons](https://publons.com/researcher/4243832/xintao-huan/).
+He is an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member of *Journal of Cybersecurity* and a Guest Editor of *Journal of BIT* and *Electronics*. He is an Executive Member of *CCF Pervasive Computing Committee*. He serves as a Session Chair / TPC member for international conferences including *ICC’23*,*24*,*25* *GLOBECOM’23*,*24*,*25*, *ISAS’23* and *VTC’23*,*24*,*25*. He also serves as a reviewer for top journals including *ACM Computing Surveys*, *IEEE NET*, TIFS*, TCOM*, *TWC*, *TMC*, *TVT*, *IOTJ*, *SJ*, etc., more please find on [publons](https://publons.com/researcher/4243832/xintao-huan/).
 
 News
 ======
 * 29/06/2025 Our paper, ''SNICK: Secure Node Identification Based on Covert Clock Feature Extraction for Cross-Environment Wireless IoT’’ has been accepted by *IEEE Transactions on Information Forensics and Security*.
 * 02/04/2025 Our paper, ''Joint Deep Reinforcement Learning and Stackelberg Game with Intervention for Heterogeneous Edge Computing in Industrial Internet of Things’’ has been accepted by *IEEE Internet of Things Journal*.
 * 01/12/2024 Our paper, ''KGPT: Wireless Key Generation Based on Power Tuning for Static Internet-of-Things’’ has been accepted by *IEEE Transactions on Industrial Informatics*.
-* 04/12/2024 First Class Award, Beijing Universities Basic Teaching Skills Competition of Higher Education Teachers for International Students, Beijing Municipal Education Commission, 2024, BRTV Report. <br />
+* 04/12/2024 First Class Award, Beijing Universities Basic Teaching Skills Competition of Higher Education Teachers for International Students, Beijing Municipal Education Commission, 2024, BRTV News. <br />
 <img src="images/BRTV.jpg" width="70%">
 * 04/09/2024 Our paper, ''P^3ID: A Privacy-Preserving Person Identification Framework Towards Multi-Environments Based on Transfer Learning’’ has been accepted by *IEEE Transactions on Mobile Computing*.
 * 22/05/2024 Our paper, ''Kerra: An Internet-of-Things Wireless Key Generation Resistant to Replay Attacks’’ has been accepted by *IEEE Internet of Things Journal*.
@@ -31,8 +31,8 @@ News
 * 17/08/2023 Deliver a talk at Western University, Canada, titled ''From Time Synchronization to Wireless Security: An Interdisciplinary Research’’, sponsored by IEEE ComSoc London Section Joint Chapter. ([https://events.vtools.ieee.org/m/369822](https://events.vtools.ieee.org/m/369822))
 * 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
 * 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE GLOBECOM 2023*.
-* 01/06/2023 - 15/01/2024 Serve as Guest Editor for Special Issue ''Precise Timing and Security in Internet of Things’’ in Electronics journal, welcome submissions! ([Link](https://www.mdpi.com/journal/electronics/special_issues/RH2PT9A14V))<br />
-<img src="images/SI.png" width="70%">
+* 01/06/2023 - 15/01/2024 Serve as Guest Editor for Special Issue ''Precise Timing and Security in Internet of Things’’ in Electronics journal, welcome submissions! ([Link](https://www.mdpi.com/journal/electronics/special_issues/RH2PT9A14V))
+<!-- <br /><img src="images/SI.png" width="70%"> -->
 * 24/06/2023 Serve as Session Chair for Session ''Consensus Problem in Autonomous System’’ in 2023 6th International Symposium on Autonomous Systems, ISAS 2023.<br />
 <img src="images/isas1.jpg" width="70%">
 * 06/07/2022 Our paper, ''A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
