@@ -19,6 +19,8 @@ News
 * 29/06/2025 Our paper, ''SNICK: Secure Node Identification Based on Covert Clock Feature Extraction for Cross-Environment Wireless IoT’’ has been accepted by *IEEE Transactions on Information Forensics and Security*.
 * 02/04/2025 Our paper, ''Joint Deep Reinforcement Learning and Stackelberg Game with Intervention for Heterogeneous Edge Computing in Industrial Internet of Things’’ has been accepted by *IEEE Internet of Things Journal*.
 * 01/12/2024 Our paper, ''KGPT: Wireless Key Generation Based on Power Tuning for Static Internet-of-Things’’ has been accepted by *IEEE Transactions on Industrial Informatics*.
+* 04/12/2024 First Class Award, Beijing Universities Basic Teaching Skills Competition of Higher Education Teachers for International Students, Beijing Municipal Education Commission, 2024, BRTV Report. <br />
+<img src="images/BRTV.jpg" width="70%">
 * 04/09/2024 Our paper, ''P^3ID: A Privacy-Preserving Person Identification Framework Towards Multi-Environments Based on Transfer Learning’’ has been accepted by *IEEE Transactions on Mobile Computing*.
 * 22/05/2024 Our paper, ''Kerra: An Internet-of-Things Wireless Key Generation Resistant to Replay Attacks’’ has been accepted by *IEEE Internet of Things Journal*.
 * 06/02/2024 Our paper, ''Secure Node Identification Through Covert Clock Feature Extraction’’ has been accepted by *IEEE INFOCOM 2024 DeepWireless*.
