@@ -16,6 +16,7 @@ He is an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member o
 
 News
 ======
+* 14/07/2025 Our paper, ''Sense+: A Plug-and-Play Signal Preprocessing Approach for Enhancing Human-Centered Wireless Sensing’’ has been accepted by *IEEE Internet of Things Journal*.
 * 05/07/2025 Our paper, ''LLRF: Towards Long-Term LoRa Radio Frequency Fingerprint Identification Based on Transfer Learning’’ has been accepted by *IEEE Transactions on Vehicular Technology*.
 * 29/06/2025 Our paper, ''SNICK: Secure Node Identification Based on Covert Clock Feature Extraction for Cross-Environment Wireless IoT’’ has been accepted by *IEEE Transactions on Information Forensics and Security*.
 * 02/04/2025 Our paper, ''Joint Deep Reinforcement Learning and Stackelberg Game with Intervention for Heterogeneous Edge Computing in Industrial Internet of Things’’ has been accepted by *IEEE Internet of Things Journal*.
