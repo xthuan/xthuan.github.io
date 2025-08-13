@@ -8,9 +8,9 @@ toc: true
 {% include toc %}
 
 ## Principle Investigator of
-* **Ministry of Education - Huawei Smart Base 2.0 Course** (1201004 Internet of Things Security)
-* **Collaborative Education Project of China Ministry of Education** (100120044 Wireless Network Security)
-* **Excellent Courses of Beijing Institute of Technology** （1201004 Internet of Things Security）
+* **China Ministry of Education - Huawei Smart Base 2.0 Course** (1201004 Internet of Things Security)
+* **China Ministry of Education - Collaborative Education Project** (100120044 Wireless Network Security)
+* **Beijing Institute of Technology - Excellent Course** （1201004 Internet of Things Security）
 
 ## Lecturer for 
 * **S1 2025-2026**
