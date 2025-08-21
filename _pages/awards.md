@@ -4,6 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Excellent Award, The 18th National College Students Information Security Competition, **China Ministry of Education**, 2025
+
 * Outstanding Teacher Award, **Beijing Institute of Technology**, 2025
 
 * First Class Award, Beijing Universities Basic Teaching Skills Competition of Higher Education Teachers for International Students, **Beijing Municipal Education Commission**, 2024
