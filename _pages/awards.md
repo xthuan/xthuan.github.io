@@ -4,6 +4,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* Outstanding Young Editorial Board Member, **Journal of Cybersecurity**, 2025
+
 * Excellent Award, The 18th National College Students Information Security Competition, **China Ministry of Education**, 2025
 
 * Outstanding Teacher Award, **Beijing Institute of Technology**, 2025
