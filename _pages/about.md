@@ -12,10 +12,12 @@ Xintao Huan is an [Assistant Professor](https://cst.bit.edu.cn/szdw/jsml/sssds/7
 
 His major reserach work centers around time synchronization & network security of Internet-of-Things low-power wireless networks such as wireless sensor network and LoRa; he also investigates wireless sensing based on artificial intelligence.
 
-He is an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member of *Journal of Cybersecurity* and a Guest Editor of *Journal of BIT* and *Electronics*. He is an Executive Member of *CCF Pervasive Computing Committee*. He serves as a Session Chair / TPC member for international conferences including *ICC’23*,*24*,*25* *GLOBECOM’23*,*24*,*25*, *ISAS’23* and *VTC’23*,*24*,*25*. He also serves as a reviewer for top journals including *ACM Computing Surveys*, *IEEE NET*, *TIFS*, *TCOM*, *TWC*, *TMC*, *TVT*, *IOTJ*, *SJ*, etc., more please find on [publons](https://publons.com/researcher/4243832/xintao-huan/).
+He is an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member of *Journal of Cybersecurity* and *International Journal of Antennas and Propagation* and a Guest Editor of *Journal of BIT* and *Electronics*. He is an Executive Member of *CCF Pervasive Computing Committee*, *CCF Internet of Things Committee*. He serves as a Session Chair / TPC member for international conferences including *ICC’23*,*24*,*25*,*26*, *GLOBECOM’23*,*24*,*25*,*26*, and *VTC’23*,*24*,*25*. He also serves as a reviewer for *42* top journals including *ACM Computing Surveys*, *Advanced Science*, *IEEE NET*, *TIFS*, *TCOM*, *TWC*, *TMC*, *TVT*, *IOTJ*, *SENJ*, *Scientific Reports*, etc., more please find on [WoS](https://publons.com/researcher/4243832/xintao-huan/).
 
 News
 ======
+* 06/12/2025 Outstanding Young Editor Award, *Journal of Cybersecurity（网络空间安全科学学报）*.<br />
+<img src="images/Journal_award.png" width="70%">
 * 14/07/2025 Our paper, ''Sense+: A Plug-and-Play Signal Preprocessing Approach for Enhancing Human-Centered Wireless Sensing’’ has been accepted by *IEEE Internet of Things Journal*.
 * 05/07/2025 Our paper, ''LLRF: Towards Long-Term LoRa Radio Frequency Fingerprint Identification Based on Transfer Learning’’ has been accepted by *IEEE Transactions on Vehicular Technology*.
 * 29/06/2025 Our paper, ''SNICK: Secure Node Identification Based on Covert Clock Feature Extraction for Cross-Environment Wireless IoT’’ has been accepted by *IEEE Transactions on Information Forensics and Security*.
@@ -35,8 +37,8 @@ News
 * 04/08/2023 Our paper, ''AI Generated Signal for Wireless Sensing’’ has been accepted by *IEEE GLOBECOM 2023*.
 * 01/06/2023 - 15/01/2024 Serve as Guest Editor for Special Issue ''Precise Timing and Security in Internet of Things’’ in Electronics journal, welcome submissions! ([Link](https://www.mdpi.com/journal/electronics/special_issues/RH2PT9A14V))
 <!-- <br /><img src="images/SI.png" width="70%"> -->
-* 24/06/2023 Serve as Session Chair for Session ''Consensus Problem in Autonomous System’’ in 2023 6th International Symposium on Autonomous Systems, ISAS 2023.<br />
-<img src="images/isas1.jpg" width="70%">
+* 24/06/2023 Serve as Session Chair for Session ''Consensus Problem in Autonomous System’’ in 2023 6th International Symposium on Autonomous Systems, ISAS 2023.
+<!-- <br /><img src="images/isas1.jpg" width="70%"> -->
 * 06/07/2022 Our paper, ''A Timestamp-Free Time Synchronization Scheme Based on Reverse Asymmetric Framework for Practical Resource-Constrained Wireless Sensor Networks’’ has been accepted by *IEEE Transactions on Communications*.
 * 10/06/2021 Our paper, ''Improving multi-hop time synchronization performance in wireless sensor networks based on packet-relaying gateways with per-hop delay compensation’’ has been accepted by *IEEE Transactions on Communications*.
 * 29/03/2021 Our paper, ''NISA: Node identification and spoofing attack detection based on clock features and radio information for wireless sensor networks’’ has been accepted by *IEEE Transactions on Communications*.
