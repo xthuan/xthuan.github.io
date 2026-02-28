@@ -38,6 +38,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 1. Han Hu, Kaifeng Song, Rongfei Fan, Cheng Zhan, **Xintao Huan**, Jie Xu, "Toward Communication-Efficient Holographic Video Transmission Through Semantic Communication and Edge Intelligence", **IEEE Wireless Communications**, vol. 32, no. 2, Apr. 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/10944632))
 1. Tianli Wang, Tong Cui, Xin Qi, and **Xintao Huan** \*, "Urban Viaduct Structural Health Monitoring: A Review of Wireless Sensor Approaches", **Buildings**, vol. 15, no. 10, a-no. 1619, 2025. [SCI]
 1. Hanxiang He, **Xintao Huan**, Yong Luo, Rongfei Fan, Jie Xu, Han Hu, "SigGen: Signal Generation for Wireless Sensing Based on Disentangled Representation", **IEEE Transactions on Wireless Communications**, Early Access, Aug. 2025. [SCI] ([Link](https://ieeexplore.ieee.org/document/11119775))
+1. Zhibin Li, Junli Shi, Xinxing Chen, Xingxing Chen, Ping Yang, Hanxiang He, Yuquan Leng, **Xintao Huan**, Han Hu, Chenglong Fu, Taihong Wang, Chuan Fei Guo, "Bimodal iontronic skins powered by edge intelligence for real-time collaborative interaction", **National Science Review**, 2026.
 
 
 # Conference Paper
