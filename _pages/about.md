@@ -16,7 +16,7 @@ He is an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member o
 
 News
 ======
-* 16/07/2026 Our paper, ''Secure Wireless Key Generation for Static Internet-of-Things’’ has been accepted by *Nature Portfolio* - *Communications Engineering*.
+* 16/07/2026 Our paper, ''Secure Wireless Key Generation for Static Internet-of-Things’’ has been accepted by *Communications Engineering* *(Nature Portfolio)*.
 * 06/12/2025 Outstanding Young Editor Award, *Journal of Cybersecurity（网络空间安全科学学报）*.<br />
 <img src="images/Journal_award.jpg" width="70%">
 * 14/07/2025 Our paper, ''Sense+: A Plug-and-Play Signal Preprocessing Approach for Enhancing Human-Centered Wireless Sensing’’ has been accepted by *IEEE Internet of Things Journal*.
