@@ -43,6 +43,7 @@ Please [email me](mailto:xintao.huan@bit.edu.cn) if you require a copy of the pa
 
 
 # Conference Paper
+1. Jiamin Liu, Tianli Wang, **Xintao Huan** \*, "EcoLink+: Energy-Efficient Link Quality Maintenance Using Cross-Layer Adaptation and Reinforcement Learning for Practical WSNs", **CWSN 2026** - 20th China Conference on Wireless Sensor Networks, 2026. <!-- [EI] ([Link](https://ieeexplore.ieee.org/document/10620855)) -->
 1. **Xintao Huan**, Wen Chen, Changfan Wu, Jiamin Liu, Yixuan Zou, Shengkang Zhang, "Secure Node Identification Through Covert Clock Feature Extraction", **IEEE INFOCOM 2024** - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Vancouver, BC, Canada, 2024, pp. 1-6. [EI] ([Link](https://ieeexplore.ieee.org/document/10620855))
 1. Hanxiang He, Han Hu, **Xintao Huan**, Heng Liu, Jianping An, Shiwen Mao, "AI Generated Signal for Wireless Sensing," **IEEE GLOBECOM 2023** - 2023 IEEE Global Communications Conference, Kuala Lumpur, Malaysia, pp. 6097-6102, 2023. [EI] ([Link](https://ieeexplore.ieee.org/document/10437736))
 1. Yi Hao, **Xintao Huan** \*, Kaitao Miao and Han Hu, "Non-Consensus Crystal Oscillators Enhanced Radio Frequency Fingerprinting: State-of-The-Art," **2023 6th International Symposium on Autonomous Systems (ISAS)**, Nanjing, China, pp. 1-6, 2023. [EI] ([Link](https://ieeexplore.ieee.org/document/10164489))
