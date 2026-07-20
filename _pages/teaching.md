@@ -11,6 +11,7 @@ toc: true
 * **China Ministry of Education - Huawei Smart Base 2.0 Course** (1201004 Internet of Things Security)
 * **China Ministry of Education - Collaborative Education Project** (100120044 Wireless Network Security)
 * **Beijing Institute of Technology - Excellent Course** （1201004 Internet of Things Security）
+* **Beijing Institute of Technology - Smart Course** （1201004 Internet of Things Security）
 
 ## Lecturer for 
 * **S1 2025-2026**
