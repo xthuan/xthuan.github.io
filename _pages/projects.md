@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-* Principle Investigator, **National Natural Science Foundation of China (NSFC)** General Program (under Grant No. 62571033), 500,000 RMB, Jan. 2026 to Dec. 2029
+* Principle Investigator, **National Natural Science Foundation of China (NSFC)** General Program (under Grant No. 62571033), 650,000 RMB, Jan. 2026 to Dec. 2029
 
 * Principle Investigator, **Beijing Natural Science Foundation (BJNSF)** Joint Fund (under Grant No. L251064), 300,000 RMB, Jul. 2025 to Jun. 2028
 
