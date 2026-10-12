@@ -10,13 +10,19 @@ redirect_from:
 
 Xintao Huan is an [Associate Professor](https://cst.bit.edu.cn/szdw/jsml/bssds/121d22ed2eb746c1ad7a2fad10174481.htm) at the School of Cyberspace Science and Technology, Beijing Institute of Technology, China. He received the Ph.D. degree in electrical engineering and electronics from the University of Liverpool, UK, in 2021, and the B.Sc. degree and the M.Sc. degree in computer engineering from the University of Duisburg-Essen, Germany, in 2013 and 2017. He received the stipend of “Stipendium für hervorragende Leistungen des Landes Nordrhein-Westfalen” for his study at University of Duisburg-Essen. He worked as a research assistant at Prof.Marrón's [Networked Embedded Systems (NES)](https://www.nes.uni-due.de/) Group of University of Duisburg-Essen from 2012 to 2016. He is a recipient of the Beijing Young Elite Scientist Sponsorship Program.
 
-His major reserach work centers around time synchronization & network security of Internet-of-Things low-power wireless networks such as wireless sensor network and LoRa; he also investigates wireless sensing based on artificial intelligence.
+His major research work centers around wireless synchronization, wireless security, and wireless sensing for the Internet of Things.
 
-He is an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member of *Journal of Cybersecurity* and *International Journal of Antennas and Propagation* and a Guest Editor of *Journal of BIT* and *Electronics*. He is an Executive Member of *CCF Pervasive Computing Committee*, *CCF Internet of Things Committee*. He serves as a Session Chair / TPC member for international conferences including *ICC’23*,*24*,*25*,*26*, *GLOBECOM’23*,*24*,*25*,*26*, and *VTC’23*,*24*,*25*. He also serves as a reviewer for *42* top journals including *ACM Computing Surveys*, *Advanced Science*, *IEEE NET*, *TIFS*, *TCOM*, *TWC*, *TMC*, *TVT*, *IOTJ*, *SENJ*, *Scientific Reports*, etc., more please find on [WoS](https://publons.com/researcher/4243832/xintao-huan/).
+He is an Editor of *IEEE Internet of Things Journal*, an Associate Editor of *IEEE Sensors Journal*, an Editorial Board Member of *Scientific Reports (Nature Portfolio)* and *Journal of Cybersecurity*. He is an Executive Member of *CCF Pervasive Computing Committee*, *CCF Internet of Things Committee*. He serves as a Session Chair / TPC member for international conferences including *ICC’23*,*24*,*25*,*26*, *GLOBECOM’23*,*24*,*25*,*26*, *WCNC'26*, and *VTC’23*,*24*,*25*. He also serves as a reviewer for *42* top journals including *Communications Engineering (Nature Portfolio)*, *Advanced Science*, *ACM Computing Surveys*, *IEEE NET*, *TIFS*, *TCOM*, *TWC*, *TMC*, *TVT*, *IOTJ*, *SENJ*, *Scientific Reports (Nature Portfolio)*, ACM TOSN, TIOT, etc., more please find on [WoS](https://publons.com/researcher/4243832/xintao-huan/).
+
+Recruiting Master's and Ph.D students.
 
 News
 ======
+* 12/10/2026 Join as an *Editor* on the board of the *IEEE Internet of Things Journal* (SCI Q1, IF 8.7).
+* 08/09/2026 Join as an *Editor Board Member* of the *Scientific Reports (Nature Portfolio)* (SCI Q1, IF 4.9).
 * 16/07/2026 Our paper, ''Secure Wireless Key Generation for Static Internet-of-Things’’ has been accepted by *Communications Engineering* *(Nature Portfolio)*.
+* 22/05/2026 Deliver a lecture on BRTV (北京广播电视台).<br />
+<img src="images/brtv_lecture.jpg" width="70%">
 * 06/12/2025 Outstanding Young Editor Award, *Journal of Cybersecurity（网络空间安全科学学报）*.<br />
 <img src="images/Journal_award.jpg" width="70%">
 * 14/07/2025 Our paper, ''Sense+: A Plug-and-Play Signal Preprocessing Approach for Enhancing Human-Centered Wireless Sensing’’ has been accepted by *IEEE Internet of Things Journal*.
@@ -32,6 +38,7 @@ News
 * 28/11/2023 Our paper, ''A Microsecond Energy-Efficient LoRa Time Synchronization Based on Low-Layer Timestamping and Asymmetric Time Translation’’ has been accepted by *IEEE Transactions on Vehicular Technology*.
 * 24/10/2023 Our paper, ''Carrier Frequency Offset in Internet-of-Things Radio Frequency Fingerprint Identification: An Experimental Review’’ has been accepted by *IEEE Internet of Things Journal*.
 * 12/10/2023 Our paper, ''基于自主舍弃与校准的鲁棒物联网设备无线密钥生成方法’’ has been accepted by *《信息网络安全》* (中文核心期刊).
+* 27/09/2023 Join as an *Associate Editor* of the *IEEE Sensors Journal* (SCI Q1, IF 4.5).
 <!-- * 28/09/2023 Start to serve as an Associate Editor of *IEEE Sensors Journal* (SCI Q1) ([Link](https://ieee-sensors.org/ieee-sensors-journal/)) -->
 * 17/08/2023 Deliver a talk at Western University, Canada, titled ''From Time Synchronization to Wireless Security: An Interdisciplinary Research’’, sponsored by IEEE ComSoc London Section Joint Chapter. ([https://events.vtools.ieee.org/m/369822](https://events.vtools.ieee.org/m/369822))
 * 07/08/2023 Our paper, ''A One-Way Time Synchronization Scheme for Practical Energy-Efficient LoRa Network Based on Reverse Asymmetric Framework’’ has been accepted by *IEEE Transactions on Communications*.
