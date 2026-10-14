@@ -18,7 +18,7 @@ Recruiting Master's and Ph.D students.
 
 News
 ======
-* 12/10/2026 Join as an *Editor* on the board of the *IEEE Internet of Things Journal* (SCI Q1, IF 8.7).
+* 12/10/2026 Join as an *Editor* on the Editorial Board of the *IEEE Internet of Things Journal* (SCI Q1, IF 8.7).
 * 08/09/2026 Join as an *Editor Board Member* of the *Scientific Reports (Nature Portfolio)* (SCI Q1, IF 4.9).
 * 16/07/2026 Our paper, ''Secure Wireless Key Generation for Static Internet-of-Things’’ has been accepted by *Communications Engineering* *(Nature Portfolio)*.
 * 22/05/2026 Deliver a lecture on BRTV (北京广播电视台).<br />
